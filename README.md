@@ -29,7 +29,7 @@ Things I use
 
 - [Astro](https://astro.build/)
 - [Leptos](https://github.com/leptos-rs/leptos)
-- Starter Templates
+- Stacks
   - [`t3`](https://create.t3.gg/)
   - [`vitesse-lite`](https://github.com/antfu/vitesse-lite)
 
@@ -61,3 +61,5 @@ Things I use
   - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
   - [Simple Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/)
   - [xBrowserSync](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/)
+
+### Inspired by [antfu/use](https://github.com/antfu/use)
