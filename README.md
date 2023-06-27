@@ -16,17 +16,20 @@ Things I use
   - [`starship`](https://starship.rs/) - Shell prompt
   - [`antigen`](https://github.com/zsh-users/antigen) - Plugin manager
 - [`pfetch`](https://github.com/dylanaraps/pfetch) - System info tool
+- [`atuin`](https://atuin.sh) - Shell history
 - Custom commands
   - [`fls`](https://github.com/saethlin/fls) - `ls`
   - [`bat`](https://github.com/sharkdp/bat) - `cat`
   - [`zoxide`](https://github.com/ajeetdsouza/zoxide) - `cd`
 - Package managers
-  - [`pnpm`](https://pnpm.io/) - Node.js
-  - [`poetry`](https://python-poetry.org/) - Python
+  - [`bun`](https://bun.sh) - JavaScript
+    - [`pnpm`](https://pnpm.io/) - Node.js
+  - [`rye`](https://rye-up.com) - Python
   - [`yay`](https://github.com/Jguer/yay) - AUR helper
 
 ## Frameworks
 
+- [Next.js](https://nextjs.org)
 - [Astro](https://astro.build/)
 - [Leptos](https://github.com/leptos-rs/leptos)
 - Stacks
@@ -39,7 +42,7 @@ Things I use
 - 3D slicer: [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
 - VPN provider: [Proton VPN](https://protonvpn.com/)
 - 2FA authenticator: [Raivo OTP](https://raivo-otp.com/)
-- Password manager: [Bitwarden](https://bitwarden.com/)
+- Password manager: [pass](https://www.passwordstore.org)
 - [KDE suite](https://apps.kde.org/)
   - Terminal emulator: [Konsole](https://konsole.kde.org/)
   - Drop-down terminal: [Yakuake](https://apps.kde.org/yakuake/)
